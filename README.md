@@ -36,7 +36,7 @@ The simulation generates a dual-plot visualization. The top plot compares open-l
       python discretization_methods.py
 
 
-🧠 Project Background
+## 🧠 Project Background
 This project bridges classical control theory with modern software engineering practices, developed as part of a Master’s in Robotics and Industrial Control.
 
 1. Aircraft Model: The state-space analysis uses the pitch-axis dynamics of an F-4E Phantom II aircraft.
