@@ -5,11 +5,11 @@ This repository contains Python implementations for discretizing continuous-time
 ## 🚀 Features
 
 * **Transfer Function Discretization:** Algorithmic implementation of fundamental numerical methods derived from theoretical control notes:
-  * [cite_start]**Forward Difference (Euler):** [cite: 5, 6, 7]
-  * [cite_start]**Backward Difference:** Stable approximation using previous state values[cite: 15, 16, 23].
-  * [cite_start]**Tustin (Bilinear Transform):** High-accuracy mapping using Symbolic Mathematics to handle polynomial expansion[cite: 33, 39, 41].
-* **Digital PID Controller:** Object-oriented implementation featuring proportional ($f_p$) and integral ($f_i$) gains.
-* [cite_start]**State-Space Exact Discretization:** Computation of $A_d = e^{AT}$ and $B_d$ applied to an **F-4E Aircraft** model[cite: 57, 59, 64].
+  * **Forward Difference (Euler):**
+  * **Backward Difference:** Stable approximation using previous state values.
+  * **Tustin (Bilinear Transform):** High-accuracy mapping using Symbolic Mathematics to handle polynomial expansion.
+* **Digital PID Controller:** Object-oriented implementation featuring proportional (f_p) and integral (f_i) gains.
+* **State-Space Exact Discretization:** Computation of A_d = e^{AT} and B_d applied to an **F-4E Aircraft** model.
 
 ## 🛠️ Technologies & Libraries
 
