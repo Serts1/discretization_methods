@@ -40,4 +40,5 @@ This project bridges classical control theory with modern software engineering p
 3. Algorithmic Focus: Rather than using built-in conversion functions, the discretization logic is implemented from first principles using factorials and binomial expansions.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 Serafeim Tsivleris : https://github.com/Serts1
