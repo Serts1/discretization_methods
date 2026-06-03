@@ -32,7 +32,12 @@ The simulation generates a dual-plot visualization. The top plot compares open-l
 3. python discretization_methods.py
 
 
-🧠 Project BackgroundThis project bridges classical control theory with modern software engineering practices, developed as part of a Master’s in Robotics and Industrial Control.Aircraft Model: The state-space analysis uses the pitch-axis dynamics of an F-4E Phantom II aircraft.Control Tuning: The digital PID parameters ($f_p, f_i$) are implemented to showcase discrete-time stability and precise setpoint tracking.Algorithmic Focus: Rather than using built-in conversion functions, the discretization logic is implemented from first principles using factorials and binomial expansions.
+🧠 Project Background
+This project bridges classical control theory with modern software engineering practices, developed as part of a Master’s in Robotics and Industrial Control.
+
+1. Aircraft Model: The state-space analysis uses the pitch-axis dynamics of an F-4E Phantom II aircraft.
+2. Control Tuning: The digital PID parameters ($f_p, f_i$) are implemented to showcase discrete-time stability and precise setpoint tracking.
+3. Algorithmic Focus: Rather than using built-in conversion functions, the discretization logic is implemented from first principles using factorials and binomial expansions.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 Serafeim Tsivleris : https://github.com/Serts1
