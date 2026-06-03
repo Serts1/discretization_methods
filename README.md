@@ -26,10 +26,9 @@ The simulation generates a dual-plot visualization. The top plot compares open-l
 
 ## 💻 How to Run
 
-1. **Clone the repository:**
-   git clone [https://github.com/Serts1/discretization_methods.git](https://github.com/Serts1/discretization_methods.git)
-2. pip install numpy scipy sympy matplotlib
-3. python discretization_methods.py
+1. Clone the repository:  git clone [https://github.com/Serts1/discretization_methods.git](https://github.com/Serts1/discretization_methods.git)
+2. Install dependencies:  pip install numpy scipy sympy matplotlib
+3. Execute the simulation: python discretization_methods.py
 
 
 🧠 Project Background
